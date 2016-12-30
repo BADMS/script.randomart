@@ -11,6 +11,7 @@ import argparse
 import simplejson
 from PIL import Image
 import random, math
+from math import sin, cos, pi, sqrt
 from xml.dom.minidom import parse
 
 ADDON = xbmcaddon.Addon()
